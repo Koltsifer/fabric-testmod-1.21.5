@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://koltsifer.ru/",
-		"sources": "https://github.com/Koltsifer/minecraft-fabric-test-mod"
+		"sources": "https://github.com/Koltsifer/fabric-testmod-1.21.5"
 	},
 	"license": "MIT",
 	"icon": "assets/testmod/icon.png",
@@ -22,7 +22,7 @@
 			"ru.kolts.testmod.TestModDataGenerator"
 		],
 		"client": [
-			"ru/kolts/testmod/TestModClient.java"
+			"ru.kolts.testmod.TestModClient"
 		]
 	},
 	"mixins": [
